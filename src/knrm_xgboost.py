@@ -27,9 +27,3 @@ class KNRM_XGBOOST:
             else:
                 cnt2 += 1
         print("Accuracy: %.2f %% " % (100 * cnt1 / (cnt1 + cnt2)))
-
-
-
-
-
-
