@@ -10,3 +10,4 @@ kx.trian('./data/train.csv', './model/knrm_xgboost.model')
 
 # model = pickle.load(open('./model/knrm_xgboost.model', 'rb'))
 # kx.test('./data/test.csv', model)
+# 82.34%
